@@ -118,3 +118,7 @@ body {
   color: black;
   border: none;
 }
+
+.section-five__title {
+  padding-bottom: 15px;
+}
