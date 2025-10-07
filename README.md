@@ -14,4 +14,4 @@ The portfolio is designed to represent my profile, learning journey, and future 
 - Clean and minimal layout  
 - Simple navigation between pages
 
- visit here 🔗[]
+ visit here 🔗[https://varunkarthick1904.github.io/Portfolio-simple-website/]
