@@ -5,9 +5,9 @@ This is my personal portfolio website created using HTML and basic CSS. It conta
 
 🛠️ Tech Stack
 
-HTML5 – For structure and layout
+• HTML5 – For structure and layout
 
-CSS3 – For styling 
+• CSS3 – For styling 
 
 💡 Purpose
 
@@ -19,4 +19,4 @@ This project is my first step into web development, focusing on learning the fun
 
 📞 Contact Page: Contact details and form
 
-🔗 Live Demo
+🔗 Live Demo:[https://varunkarthick1904.github.io/Portfolio-simple-website/]
