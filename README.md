@@ -14,4 +14,4 @@ The website currently includes a **Home page** with my introduction and a **Cont
 ## 🎯 Purpose
 The goal of this project is to start building my online presence and gradually expand my portfolio as I learn more skills in web development.
 
-### 🔗 Live Demo:[]
+### 🔗 Live Demo:[https://varunkarthick1904.github.io/Portfolio-simple-website/]
