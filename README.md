@@ -27,5 +27,5 @@ It includes two pages:
 
 • Structuring clean, readable code
 
-🔗 Project Link:[https://varunkarthick1904.github.io/Portfolio-simple-website/]
+🔗 Live Demo:[https://varunkarthick1904.github.io/Portfolio-simple-website/]
 
